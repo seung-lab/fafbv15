@@ -1,0 +1,17 @@
+# Site settings
+title: FAFBv15 Data
+email: sseung@princeton.edu
+url: https://
+description: "FAFBv15 Data"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Seung Lab, Princeton Neuroscience Institute, Princeton University
+
+# Build settings
+markdown: kramdown
+permalink: pretty
