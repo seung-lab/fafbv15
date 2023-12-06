@@ -134,7 +134,6 @@ a:focus {
 .intro {
     display: table;
     width: 100%;
-    height: auto;
     padding: 100px 0;
     text-align: center;
     color: #fff;
@@ -161,7 +160,6 @@ a:focus {
 
 @media(min-width:767px) {
     .intro {
-        height: 10%;
         padding: 0;
     }
 
