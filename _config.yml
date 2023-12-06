@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: "<br>Seung Lab<br>Princeton Neuroscience Institute<br>Princeton University<br>"
+footer: "<br>Seung Lab, Princeton Neuroscience Institute, Princeton University"
 
 social:
         - title: github
